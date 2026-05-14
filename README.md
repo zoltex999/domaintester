@@ -12,10 +12,10 @@ Le script effectue une vérification en 4 niveaux pour chaque domaine :
 
 ---
 ## Fonctionnalités
-- Vérification en masse sur ~300 TLDs ou domaine unique
+- Vérification en masse sur 582 TLD disponibles à l'achat public
 - Multi-thread
 - Sauvegarde des résultats en `.txt`
-- Compatible Windows et Linux
+- Compatible Windows 
 
 ---
 ## Installation
