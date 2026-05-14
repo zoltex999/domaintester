@@ -32,7 +32,7 @@ Aucune dépendance externe — uniquement la bibliothèque standard Python.
 ## Utilisation
 
 ```
-1. Global SLD check   → teste un SLD sur tous les TLDs de la liste
+1. Global TLD check   → teste un SLD sur tous les TLDs de la liste
 2. Single domain check → teste un domaine complet
 3. Exit
 ```
