@@ -21,7 +21,7 @@ Le script effectue une vérification en 4 niveaux pour chaque domaine :
 ## Installation
 
 ```bash
-git clone https://github.com/youruser/domain-tester
+git clone https://github.com/zoltex999/domaintester
 cd domain-tester
 python main.py
 ```
