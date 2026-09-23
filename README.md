@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 # Domain Tester
 ### Vérifier la disponibilité des domaines de premier niveau
----
+
 ## Fonctionnement
 
 4 vérifications
@@ -10,14 +10,12 @@
 3. WHOIS
 4. RDAP fallback
 
----
 ## Fonctionnalités
 - Vérification en masse sur 582 TLD disponibles
 - Multi-thread
 - Sauvegarde des résultats en `.txt`
 - Compatible Windows 
 
----
 ## Installation
 
 ```bash
@@ -26,8 +24,6 @@ cd domain-tester
 python main.py
 ```
 
-
----
 ## Utilisation
 
 ```
