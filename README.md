@@ -1,4 +1,4 @@
-![Banner](banner.gif)
+![Banner](banner.gi)
 # Domain Tester
 ### Vérifier la disponibilité des domaines de premier niveau
 
