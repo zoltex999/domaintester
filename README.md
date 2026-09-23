@@ -4,7 +4,7 @@
 ---
 ## Fonctionnement
 
-Le script effectue une vérification en 4 niveaux pour chaque domaine :
+4 vérifications
 1. Résolution DNS + connectivité
 2. RDAP officiel
 3. WHOIS
@@ -12,7 +12,7 @@ Le script effectue une vérification en 4 niveaux pour chaque domaine :
 
 ---
 ## Fonctionnalités
-- Vérification en masse sur 582 TLD disponibles à l'achat public
+- Vérification en masse sur 582 TLD disponibles
 - Multi-thread
 - Sauvegarde des résultats en `.txt`
 - Compatible Windows 
@@ -26,7 +26,6 @@ cd domain-tester
 python main.py
 ```
 
-Aucune dépendance externe — uniquement la bibliothèque standard Python.
 
 ---
 ## Utilisation
@@ -37,8 +36,3 @@ Aucune dépendance externe — uniquement la bibliothèque standard Python.
 3. Exit
 ```
 
-Lancer via le `.bat` sur Windows pour redémarrage automatique en cas d'erreur.
-
----
-## Supporte-moi
-### [ko-fi.com/zoltex](https://ko-fi.com/zoltex)
